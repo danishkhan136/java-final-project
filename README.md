@@ -197,18 +197,6 @@ Login Page
 
 ---
 
-## Screenshots
-
-You can add screenshots of your project here:
-
-```md
-![Login Page](screenshots/login-page.png)
-![Save Contact Page](screenshots/save-contact.png)
-![Get Contact Page](screenshots/get-contact.png)
-```
-
----
-
 ## What I Learned
 
 While building this project, I learned how to:
